@@ -1,4 +1,4 @@
-# sonic-platform-modules-quanta
+
 Platform Drivers for QuantaMesh Switch
 ===
 
